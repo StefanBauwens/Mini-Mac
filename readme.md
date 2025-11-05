@@ -2,9 +2,9 @@
 <p>
 	<img src="img/image.png" width="40%" />
 	<img src="img/mac.gif" />
-	(Moving lines are only visible with camera)
 </p>
-
+<sup> (Moving lines are only visible with camera)</sup>
+<p></p>
 
 Heavily inspired by [printnplay](https://github.com/printnplay)'s video: https://www.youtube.com/watch?v=Buvo9bdydm8
 
