@@ -11,7 +11,7 @@ Heavily inspired by [printnplay](https://github.com/printnplay)'s video: https:/
 I've also used his 3D model: https://www.thingiverse.com/thing:4966594
 
 Basically the build is the same as the video, but I've written the entire software from from scratch. 
-I wanted to make something that would look and feel like an original Macintosh Classic with the option to easily add custom apps without the need to reflash the ESP constantly.
+I wanted to make something that would look and feel like an original Macintosh Classic, be interactable and with the option to easily add custom apps without the need to reflash the ESP constantly.
 
 ## Features
 
