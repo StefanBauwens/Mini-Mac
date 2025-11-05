@@ -1,8 +1,7 @@
 # Mini Macintosh Classic Simulator
 <p>
 	<img src="img/image.png" width="40%" />
-	<video src="https://github.com/user-attachments/assets/bea2b04a-ab60-4427-87b0-046ba9cbb4c0" />
-		
+	<img src="img/mac.gif" />
 	(Moving lines are only visible with camera)
 </p>
 
